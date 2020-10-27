@@ -6,7 +6,7 @@
 ## I'm a student, Developer, and Data Enthusiast!!
 
 - 🔭 I just deployed my first model: 🕺🏽
-- 🌱 I’m currently learning Data Science and flask
+- 🌱 I’m currently working on data related projects and learning flask
 - 👯 I’m looking to collaborate with artists or other developers
 - 🥅 2020 Goals: Learn and contribute more
 - ⚡ Fun fact: I love to exercise and watch soccer
