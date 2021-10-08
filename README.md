@@ -1,9 +1,22 @@
+![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/56393921/136544847-1624de20-60bc-488d-be2e-11025a7ce99f.png)
+<!-- ![creepy-rotate](https://user-images.githubusercontent.com/56393921/136547737-b7444d63-308a-4ad5-afea-af9d69011642.gif) -->
 
+## Hello, all! 
+<!-- <img src="https://user-images.githubusercontent.com/56393921/136547737-b7444d63-308a-4ad5-afea-af9d69011642.gif" width=25rem /> -->
+<!-- ![Reaction_Submission_Bowing](https://user-images.githubusercontent.com/56393921/136547126-45636b5d-805c-48a5-8d6b-7dded9d09631.gif) -->
 
-[website]: https://azariagmt.ninja/
-[twitter]: https://twitter.com/azariagmt
-[instagram]: https://instagram.com/azariagebremichael
-[linkedin]: https://www.linkedin.com/in/azaria-gebremichael/
+My name is Azaria Gebremichael and I am a Software, ML|MLOps Engineer. Currently living in Addis Ababa and looking for fulltime opportunities. You can contact me on [Linkedin](https://www.linkedin.com/in/azaria-gebremichael/), [twitter](https://twitter.com/azariagmt), or [instagram](https://instagram.com/azariagebremichael)
+
+---
+
+## Blog & Writing
+Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@azariatamrat).
+
+---
+
+## Tools & Technologies
+Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@azariatamrat).
+
 
 <!-- ### Languages, Frameworks, and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -26,16 +39,8 @@
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <br /> -->
 
----
 
-### Connect with me:
 
-[<img align="left" alt="azariagmt.ninja" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="azariagmt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="azariagmt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="azariagmt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
 
 ---
 
