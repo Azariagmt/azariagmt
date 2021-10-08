@@ -14,8 +14,32 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 
 ---
 
-## Tools & Technologies
-Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@azariatamrat).
+## Tech I'm familiar with
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=154A9F)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=154A9F)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=154A9F)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=154A9F)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=154A9F)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=154A9F)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=154A9F)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=154A9F)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=154A9F)
+![](https://img.shields.io/badge/Tools-Apache-Kafka-informational?style=flat&logo=Apache-Kafka&logoColor=white&color=154A9F)
+![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=154A9F)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=154A9F)
+![](https://img.shields.io/badge/Editor-VS-Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=154A9F)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=154A9F)
+
+
+## GitHub Stats
+
+<!-- <a href="https://github.com/Azariagmt/azariagmt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azariagmt&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=154BA2&bg_color=1d1f21&langs_count=3" />
+</a> -->
+<a href="https://github.com/Azariagmt/azariagmt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Azariagmt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2167D9&bg_color=1d1f21" alt="Azaria's GitHub Stats" />
+</a>
 
 
 <!-- ### Languages, Frameworks, and Tools:
