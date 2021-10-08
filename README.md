@@ -5,13 +5,12 @@
 <!-- <img src="https://user-images.githubusercontent.com/56393921/136547737-b7444d63-308a-4ad5-afea-af9d69011642.gif" width=25rem /> -->
 <!-- ![Reaction_Submission_Bowing](https://user-images.githubusercontent.com/56393921/136547126-45636b5d-805c-48a5-8d6b-7dded9d09631.gif) -->
 
-My name is Azaria Gebremichael and I am a Software, ML|MLOps Engineer. Currently living in Addis Ababa and looking for fulltime opportunities. You can contact me on [Linkedin](https://www.linkedin.com/in/azaria-gebremichael/), [twitter](https://twitter.com/azariagmt), or [instagram](https://instagram.com/azariagebremichael)
-
----
-
-## Blog & Writing
+My name is Azaria Gebremichael and I am a Software, ML|MLOps Engineer. Currently living in Addis Ababa and looking for fulltime opportunities. You can contact me on [Linkedin](https://www.linkedin.com/in/azaria-gebremichael/), [twitter](https://twitter.com/azariagmt), or [instagram](https://instagram.com/azariagebremichael). 
+<br><br>
 Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@azariatamrat).
 
+
+<!-- 
 ---
 
 ## Tech I'm familiar with
@@ -37,10 +36,6 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 <!-- <a href="https://github.com/Azariagmt/azariagmt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azariagmt&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=154BA2&bg_color=1d1f21&langs_count=3" />
 </a> -->
-<a href="https://github.com/Azariagmt/azariagmt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Azariagmt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2167D9&bg_color=1d1f21" alt="Azaria's GitHub Stats" />
-</a>
-
 
 <!-- ### Languages, Frameworks, and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -63,8 +58,4 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <br /> -->
 
-
-
-
----
 
