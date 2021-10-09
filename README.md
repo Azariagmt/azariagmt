@@ -1,7 +1,7 @@
 ![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/56393921/136544847-1624de20-60bc-488d-be2e-11025a7ce99f.png)
 <!-- ![creepy-rotate](https://user-images.githubusercontent.com/56393921/136547737-b7444d63-308a-4ad5-afea-af9d69011642.gif) -->
 
-## Hello, all! 
+## Hello! 
 <!-- <img src="https://user-images.githubusercontent.com/56393921/136547737-b7444d63-308a-4ad5-afea-af9d69011642.gif" width=25rem /> -->
 <!-- ![Reaction_Submission_Bowing](https://user-images.githubusercontent.com/56393921/136547126-45636b5d-805c-48a5-8d6b-7dded9d09631.gif) -->
 
