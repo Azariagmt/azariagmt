@@ -1,6 +1,6 @@
 ## Hello! 
 
-I’m Azaria – A recent Software Engineering graduate currently located in Addis Ababa, Ethiopia. Interested in all things tech with current focus on web3.  
+I’m Azaria – A Software Engineer currently located in Addis Ababa, Ethiopia. Interested in all things tech with current focus on web3.  
 
 
 Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@azariatamrat).
