@@ -1,6 +1,6 @@
 ## Hello! 
 
-I’m Azaria – A Software Engineer currently located in Maryland, United States. Interested in all things tech with a current focus on building towards web3.  
+I’m Azaria – A Software Engineer located in Maryland, United States. Interested in all things tech with a current focus on building towards web3.  
 
 Apart from coding, I maintain a blog - you can find my articles [here](https://bit.ly/azariagebremichael)(poorly maintained). I also try to pay my dues as a citizen on [Stackoverflow](https://stackoverflow.com/users/13011799/azaria-gebremichael). 
 
